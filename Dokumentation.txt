@@ -1,0 +1,24 @@
+Iteration 1
+===========
+
+F1 Standort Verwaltung
+Von Benutzer angelegete Standorte anzeigen
+Standort anlegen
+Standort entfernen
+Synonyme fuer Standort anlegen 
+Synonyme fuer Standort entfernen
+
+
+F2 Benutzer Verwaltung
+Benutzer Registrierung und Anmeldung auf den Platform. Regestrierte Benutzer
+Verwaltung.
+    1.  Registrierung Vorgang
+        1.1 Autobot Registrierung verhindern (Captcha)
+        1.2 Registrierung Verifizierung per Email
+    2.  Login / Logout Vorgang
+        2.1 Passwort wiederherstellung
+    3.  Verwaltung von den Benutzer Account Daten von den Account Ihnaber
+        3.1 Email Addresse aendern
+    4.  Benutzers Administration
+        4.1 Benutzer Account sperren.
+        4.2 Benutzer Account entfernen.
